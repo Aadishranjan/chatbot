@@ -1,7 +1,7 @@
 # config.py
 
 TELEGRAM_BOT_TOKEN = "7827902165:AAHdx6UjCBNxyYUD0No2WZ8wJinBE-MY1DU"
-GEMINI_API_KEY = "AIzaSyB98ZgK-FD_Cez3-Uu2ybMxHkgEHdJ_gyo"
+GEMINI_API_KEY = "AIzaSyBnpjpyn675nB7d3YqHHTJiISCqKRTKDWE"
 
 
 # Replace with actual Telegram user IDs
